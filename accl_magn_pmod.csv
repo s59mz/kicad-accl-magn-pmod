@@ -1,3 +1,5 @@
+"Bill of Material"
+
 "Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
 1;"U2";"hmc5883l";1;"hmc5883l";;;
 2;"U1";"adxl345";1;"adxl345";;;
